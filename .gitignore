@@ -1,0 +1,12 @@
+Thumbs.db
+
+.idea/*
+.jpb/*
+.gradle/*
+gradle/*
+
+build/*
+logs/*
+out/*
+#*.s3db
+
